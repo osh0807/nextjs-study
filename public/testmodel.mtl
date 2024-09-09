@@ -1,0 +1,107 @@
+# Rhino
+newmtl white stain
+Ka 0.0000 0.0000 0.0000
+Kd 0.9804 0.9804 0.9804
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 82.5911
+map_Kd Concrete_B_Diff.jpg
+map_Bump Concrete_B_Diff.jpg
+newmtl selill
+Ka 0.0000 0.0000 0.0000
+Kd 0.9804 0.9804 0.9804
+Ks 1.0000 1.0000 1.0000
+Tf 1.0000 1.0000 1.0000
+d 1.0000
+Ns 0.0000
+newmtl ENT_BLD
+Ka 0.0000 0.0000 0.0000
+Kd 0.9804 0.9804 0.9804
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+map_Kd Granite_B_Diff.jpg
+map_Bump Granite_B_Diff.jpg
+newmtl pipe metal
+Ka 0.0000 0.0000 0.0000
+Kd 0.9804 0.9804 0.9804
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 169.3117
+map_Kd Brushed_03.jpg
+newmtl METAL FRAME
+Ka 0.0000 0.0000 0.0000
+Kd 0.4314 0.4314 0.4314
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 221.9636
+newmtl GLASS
+Ka 0.0000 0.0000 0.0000
+Kd 0.4314 0.4314 0.4314
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 0.2385
+Ns 225.5459
+newmtl TUNNEL_CONCRETE
+Ka 0.0000 0.0000 0.0000
+Kd 0.9804 0.9804 0.9804
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+map_Kd Concrete_E_Diff.jpg
+map_Bump Concrete_E_Bump.jpg
+newmtl light concrete
+Ka 0.0000 0.0000 0.0000
+Kd 0.9804 0.9804 0.9804
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+map_Kd Concrete_E_Diff.jpg
+map_Bump Concrete_E_Diff.jpg
+newmtl dark concrete
+Ka 0.0000 0.0000 0.0000
+Kd 0.9804 0.9804 0.9804
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+map_Kd Concrete_I_Diff.jpg
+map_Bump Concrete_I_Diff.jpg
+newmtl rust metal
+Ka 0.0000 0.0000 0.0000
+Kd 0.9804 0.9804 0.9804
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+map_Kd rusting-painted-steel-800-mm-architextures.jpg
+map_Bump rusting-painted-steel-800-mm-architextures.jpg
+newmtl path concrete
+Ka 0.0000 0.0000 0.0000
+Kd 0.9804 0.9804 0.9804
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 49.5547
+map_Kd concrete-2500-mm-architextures.jpg
+map_Bump concrete-2500-mm-architextures.jpg
+newmtl Plaster
+Ka 0.0000 0.0000 0.0000
+Kd 0.4902 0.8196 0.9059
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+newmtl diffuse_0
+Ka 0.0000 0.0000 0.0000
+Kd 0.0000 0.0000 0.0000
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
